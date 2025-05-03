@@ -526,6 +526,8 @@
 
 * 2023-WACV - Bootstrapping the Relationship Between Images and Their Clean and Noisy Labels. [[Paper]](https://arxiv.org/abs/2210.08826) [[Code]](https://github.com/btsmart/bootstrapping-label-noise)
 
+* 2024-CVPR - SURE: SUrvey REcipes for building reliable and robust deep networks [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_SURE_SUrvey_REcipes_for_building_reliable_and_robust_deep_networks_CVPR_2024_paper.pdf) [[Code]](https://github.com/YutingLi0606/SURE)
+
 ## Survey
 
 * 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
@@ -539,8 +541,6 @@
 * 2020 - Learning from Noisy Labels with Deep Neural Networks: A Survey. [[Paper]](https://arxiv.org/abs/2007.08199) [[Project Page]](https://github.com/songhwanjun/Awesome-Noisy-Labels)
 
 * 2024-TMLR - Mislabeled examples detection viewed as probing machine learning models: concepts, survey and extensive benchmark [[Paper]](https://openreview.net/pdf?id=3YlOr7BHkx) [[Code]](https://github.com/Orange-OpenSource/mislabeled)
-
-* 2024-CVPR - SURE: SUrvey REcipes for building reliable and robust deep networks [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_SURE_SUrvey_REcipes_for_building_reliable_and_robust_deep_networks_CVPR_2024_paper.pdf) [[Code]](https://github.com/YutingLi0606/SURE)
 
 ## Github
 
