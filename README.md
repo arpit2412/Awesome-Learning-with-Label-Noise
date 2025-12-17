@@ -528,6 +528,10 @@
 
 * 2024-CVPR - SURE: SUrvey REcipes for building reliable and robust deep networks [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_SURE_SUrvey_REcipes_for_building_reliable_and_robust_deep_networks_CVPR_2024_paper.pdf) [[Code]](https://github.com/YutingLi0606/SURE)
 
+* 2024-ECCV - Instance-Dependent Noisy-Label Learning with Graphical Model Based Noise-Rate Estimation. [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00589.pdf) [[Code]](https://github.com/arpit2412/NoiseRateLearning)
+
+* 2025-IMAVIS - PASS: Peer-agreement based sample selection for training with instance dependent noisy labels. [[Paper]](https://github.com/arpit2412/PASS-NoisyLabel) [[Code]](https://github.com/arpit2412/PASS-NoisyLabel)
+
 ## Survey
 
 * 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
