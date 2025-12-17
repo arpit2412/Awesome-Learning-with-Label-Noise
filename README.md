@@ -532,7 +532,7 @@
 
 * 2024-ECCV - Instance-Dependent Noisy-Label Learning with Graphical Model Based Noise-Rate Estimation. [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00589.pdf) [[Code]](https://github.com/arpit2412/NoiseRateLearning)
 
-* 2025-IMAVIS - PASS: Peer-agreement based sample selection for training with instance dependent noisy labels. [[Paper]](https://github.com/arpit2412/PASS-NoisyLabel) [[Code]](https://github.com/arpit2412/PASS-NoisyLabel)
+* 2025-IMAVIS - PASS: Peer-agreement based sample selection for training with instance dependent noisy labels. [[Paper]](https://arxiv.org/abs/2303.10802) [[Code]](https://github.com/arpit2412/PASS-NoisyLabel)
 
 ## Survey
 
